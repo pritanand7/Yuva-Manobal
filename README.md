@@ -33,14 +33,10 @@ Providing innovative solutions for a healthier mind and happier life!
 
 <table>
   <tr>
-<td align="center"><a href="http://anishka811.github.io/anishkagupta"><img src="images/Prit/Anishka.jpg" width="100px;" alt=""/><br /><sub><b>Anishka Gupta</b></sub></a></td>
-  </tr>
-   <tr>
-<td align="center"><a href="http://pritanand7.github.io"><img src="images/Prit/Prit.jpg" width="100px;" alt=""/><br /><sub><b>Prit Anand</b></sub></a></td>
+<td align="center"><a href="http://anishka811.github.io/anishkagupta"><img src="images/Prit/Anishka.jpg" width="100px;"><br /><sub><b>Anishka Gupta</b></sub></a></td>
+<td align="center"><a href="http://pritanand7.github.io"><img src="images/Prit/Prit.jpg" width="100px;"><br /><sub><b>Prit Anand</b></sub></a></td>
   </tr>
 </table>
-</table>
-
 ---
 
 <p align="center">
