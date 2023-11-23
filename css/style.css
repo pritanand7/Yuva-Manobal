@@ -306,7 +306,7 @@ header {
 
   color: #ffffff;
 
-  -webkit-text-stroke-width: 5px;
+  webkit-text-stroke-width: 5px;
   -webkit-text-stroke-color: black;
   /* Fallback: Set a background color. */
   background-color: #ffffff;
