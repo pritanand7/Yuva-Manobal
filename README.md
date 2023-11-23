@@ -16,13 +16,14 @@ Providing innovative solutions for a healthier mind and happier life!
 - Refreshes mood
 - Entertains people
 - Motivates people
-- Helps people to lead a healthy and succesful life.
+- Helps people to lead a healthy and successful life.
 
 ## Our Logo <a name = "logo"></a>
-<img src="./logo.png" width=140px height=110px alt="logo">
+<img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/e9da36ed-a615-4882-940f-128dbf42a8f1" width=140px height=110px alt="logo">
 
 ## 📸 Screenshots <a name = "screenshots"></a>
-![readmeBanner](https://user-images.githubusercontent.com/98955085/184510782-3f699206-4768-4b3a-aa6d-40c924e13578.png)
+![readmeBanner](https://github.com/pritanand7/Yuva-Manobal/assets/93637274/769d1e98-0c7c-442b-9310-7acac8a1aab6)
+
 
 ## Tech Stack <a name = "tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
