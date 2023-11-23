@@ -96,7 +96,7 @@ body {
 header {
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url("../images/landing-page-image.jpg");
+    url("https://source.unsplash.com/random/?natural");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -306,7 +306,7 @@ header {
 
   color: #ffffff;
 
-  webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-width: 5px;
   -webkit-text-stroke-color: black;
   /* Fallback: Set a background color. */
   background-color: #ffffff;
@@ -329,6 +329,7 @@ header {
   /* Use the text as a mask for the background. */
   /* This will show the gradient as a text color rather than element bg. */
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 
   /* Animate the text when loading the element. */
@@ -455,8 +456,8 @@ nav .fa {
 
 /* ABOUT SECTION */
 #about {
-  /* background: #1c1c1c; */
-  background-color: rgb(13, 50, 64);
+  background: #1c1c1c;
+  background-color: rgb(238, 244, 255);
 
   width: 100%;
   padding: 5px 0px;
@@ -465,7 +466,7 @@ nav .fa {
 }
 
 #about h1 {
-  color: white;
+  color: rgb(192, 30, 30);
   font-size: 50px;
   margin: 20px 20px;
   font-weight: 800;
@@ -474,7 +475,7 @@ nav .fa {
 }
 
 #about h3 {
-  color: white;
+  color: rgb(136, 46, 46);
   display: flex;
   font-size: 35px;
   justify-content: center;
@@ -495,7 +496,7 @@ nav .fa {
 }
 
 .about .photo {
-  border: 5px solid #f9004d;
+  border: 5px solid #e6d4d9;
   border-radius: 10px;
   /* margin-right: 10%; */
   order: 2;
@@ -512,6 +513,7 @@ nav .fa {
 }
 
 .about-content p{
+  color: #000000;
   max-width: 700px;
   padding: 0 1.5em;
   font-size: 27px;
@@ -555,7 +557,7 @@ nav .fa {
   padding: 20px;
   width: 300px;
   transition: all 0.25s;
-  background: rgba(1, 59, 112, 0.4);
+  background: rgb(235, 235, 235);
   box-shadow: 0 8px 32px 0 rgba(23, 25, 50, 0.37);
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
@@ -576,7 +578,7 @@ nav .fa {
 }
 
 .card img:hover {
-  /* border: 5px solid #f9004d; */
+  border: 5px solid #f9004d;
   outline: 0px solid transparent;
   padding: 3px 3px;
   border: 2px solid red;
@@ -585,13 +587,13 @@ nav .fa {
 }
 
 h5 {
-  color: white;
+  color: rgb(1, 1, 1);
   font-size: 23px;
   margin-bottom: 15px;
 }
 
 .pra p {
-  color: #fcfc;
+  color: rgba(0, 0, 0, 0.8);
   font-size: 16px;
   line-height: 27px;
   margin-bottom: 25px;
@@ -626,7 +628,7 @@ margin-bottom: 1rem;
 
 /* SERVICES SECTION */
 #services {
-  background-color: #092e3c;
+  background-color: rgb(238, 244, 255);
   padding-top: 60px;
   width: 100%;
 }
@@ -638,7 +640,7 @@ margin-bottom: 1rem;
   font-family: "Montserrat";
   padding-top: 2rem;
   font-weight: bolder;
-  color: white;
+  color: #f9004d;
 }
 
 .container {
@@ -651,8 +653,8 @@ margin-bottom: 1rem;
 .responsive {
   color: whitesmoke;
   width: 30%;
-  border: 1px solid rgba(245, 245, 245, 0.146);
-  border-radius: 1.5rem;
+  border: 1px solid rgba(102, 72, 72, 0.146);
+  border-radius: 1rem;
   text-align: center;
   padding: 2rem;
   display: flex;
@@ -701,7 +703,8 @@ margin-bottom: 1rem;
 
 .description {
   min-height: 55%;
-  /* background-color: wheat; */
+  background-color: wheat;
+  color: rgb(1, 1, 1);
   padding-bottom: 15px;
   display: flex;
   flex-direction: column;
@@ -829,7 +832,7 @@ figure.testimonal-Card .author h5 {
 
 .section-100 {
   padding: 50px;
-  background-color: rgb(13 50 64);
+  background-color: whitesmoke;
 }
 
 .testimonial-view {
@@ -909,7 +912,7 @@ figure.testimonal-Card .author h5 {
 .owl-carousel button.owl-dot {
   background: 0 0;
   /* color: inherit; */
-  color: #fff !important;
+  color: #020101 !important;
   border: none;
   padding: 0 !important;
   font: inherit;
