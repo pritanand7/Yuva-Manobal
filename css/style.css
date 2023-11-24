@@ -44,8 +44,8 @@ html{
 #loading {
   z-index: 251;
   width: 20rem;
-  -webkit-animation: spin 2s linear infinite;
-  animation: spin 2s linear infinite;
+  -webkit-animation: initial;
+  animation: initial;
 }
 
 @-webkit-keyframes spin {
@@ -306,7 +306,7 @@ header {
 
   color: #ffffff;
 
-  webkit-text-stroke-width: 5px;
+  /* -webkit-text-stroke-width: 5px; */
   -webkit-text-stroke-color: black;
   /* Fallback: Set a background color. */
   background-color: #ffffff;
@@ -563,6 +563,7 @@ nav .fa {
   -webkit-backdrop-filter: blur(2px);
   border-radius: 10px;
   border: 1px solid rgba(245, 245, 245, 0.145);
+  margin:auto;
 }
 
 .card:hover {
@@ -727,7 +728,7 @@ margin-bottom: 1rem;
   padding: 20px 0px;
   text-align: center;
   font-weight: bolder;
-  color: rgb(253, 253, 253);
+  color: #f9004d;
   width: 100%;
 }
 
@@ -926,7 +927,7 @@ figure.testimonal-Card .author h5 {
 /* faq section */
 .faq {
   background-color: rgb(0, 39, 55);
-  padding-bottom: 20px;
+  padding-bottom: 220px;
   display: grid;
   place-items: center;
   overflow: hidden;
@@ -934,13 +935,35 @@ figure.testimonal-Card .author h5 {
 }
 
 .faq_heading {
+  margin: 40px;
   padding-top: 40px;
   text-align: center;
   font-weight: bolder;
   color: white;
   width: 100%;
 }
-
+.accordion {
+  width: 84rem;
+  padding: 1.2rem 0;
+  border-radius: 1rem;
+  background: rgba(1, 59, 112, 0.4);
+  margin-top: 2rem;
+}
+.accordion {
+  display: flex;
+  flex-wrap: wrap;
+}
+.accordion__item {
+  width: 48%; /* Adjust as needed */
+  margin-right: 2%; /* Adjust as needed */
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 768px) {
+  .accordion__item {
+    width: 100%;
+    margin-right: 0;
+  }
+}
 .faq_heading h1 {
   font-size: 50px;
   font-weight: 800;
@@ -948,13 +971,6 @@ figure.testimonal-Card .author h5 {
   font-family: "Montserrat";
 }
 
-.accordion {
-  width: 42rem;
-  padding: 1.2rem 0;
-  border-radius: 1rem;
-  background: rgba(1, 59, 112, 0.4);;
-  margin-top: 2rem;
-}
 
 .accordion__heading {
   margin-bottom: 1rem;
