@@ -22,7 +22,8 @@ Providing innovative solutions for a healthier mind and happier life!
 <img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/e9da36ed-a615-4882-940f-128dbf42a8f1" width=140px height=110px alt="logo">
 
 ## 📸 Screenshots <a name = "screenshots"></a>
-![readmeBanner](https://github.com/pritanand7/Yuva-Manobal/assets/93637274/769d1e98-0c7c-442b-9310-7acac8a1aab6)
+![readmeBanner](https://github.com/pritanand7/Yuva-Manobal/assets/93637274/ad16c22c-700a-4411-ab9e-0ca59a4c382b)
+
 
 
 ## Tech Stack <a name = "tech_stack"></a>
