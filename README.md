@@ -34,8 +34,8 @@ Providing innovative solutions for a healthier mind and happier life!
 
 <table>
   <tr>
-<td align="center"><a href="http://anishka811.github.io/anishkagupta"><img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/a379e2ce-7abe-44b5-a8f0-b179cf89cf30" width="100px;"><br /><sub><b>Anishka Gupta</b></sub></a></td>
-<td align="center"><a href="http://pritanand7.github.io"><img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/f770c92e-e957-4545-bb86-5b5132a905c0" width="100px;"><br /><sub><b>Prit Anand</b></sub></a></td>
+<td align="center"><a href="http://anishka811.github.io/anishkagupta" target="_blank"><img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/a379e2ce-7abe-44b5-a8f0-b179cf89cf30" width="100px;"><br /><sub><b>Anishka Gupta</b></sub></a></td>
+<td align="center"><a href="http://pritanand7.github.io" target="_blank"><img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/f770c92e-e957-4545-bb86-5b5132a905c0" width="100px;"><br /><sub><b>Prit Anand</b></sub></a></td>
   </tr>
 </table>
 
