@@ -5,7 +5,7 @@ Welcome to Yuva Manobal, a leading project dedicated to promoting mental health 
 ## 📃 Description 
 Yuva Manobal is a pioneering project that aims to enhance mental health and well-being. We offer holistic services, such as monitoring, evaluation, and interventions, to support individuals and communities in their growth. Our team consists of professionals and innovators who are dedicated to improving mental health across the globe.
 ## Website Link-
-<a href="https://pritanand7.github.io/Yuva-Manobal/">Yuva Manobal</a>
+<a href="https://pritanand7.github.io/Yuva-Manobal/" target="_blank">Yuva Manobal</a>
 
 ## 🕊 Our Tagline 
 Providing innovative solutions for a healthier mind and happier life!
