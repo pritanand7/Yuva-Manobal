@@ -19,10 +19,10 @@ Providing innovative solutions for a healthier mind and happier life!
 - Helps people to lead a healthy and successful life.
 
 ## Our Logo <a name = "logo"></a>
-<img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/e9da36ed-a615-4882-940f-128dbf42a8f1" width=140px height=110px alt="logo">
+<img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/ad16c22c-700a-4411-ab9e-0ca59a4c382b" width=140px height=110px alt="logo">
 
 ## 📸 Screenshots <a name = "screenshots"></a>
-![readmeBanner](https://github.com/pritanand7/Yuva-Manobal/assets/93637274/ad16c22c-700a-4411-ab9e-0ca59a4c382b)
+![readmeBanner](https://github.com/pritanand7/Yuva-Manobal/assets/93637274/4927541f-dcc7-49e4-922d-7aefcdd1e557)
 
 
 
