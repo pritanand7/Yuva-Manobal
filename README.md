@@ -4,9 +4,9 @@ Welcome to Yuva Manobal, a leading project dedicated to promoting mental health 
 
 ## 📃 Description 
 Yuva Manobal is a pioneering project that aims to enhance mental health and well-being. We offer holistic services, such as monitoring, evaluation, and interventions, to support individuals and communities in their growth. Our team consists of professionals and innovators who are dedicated to improving mental health across the globe.
-## Website Link-
+<!--## Website Link-
 <a href="https://yuva-manobal.netlify.app" target="_blank">Yuva Manobal</a>
-
+-->
 ## 🕊 Our Tagline 
 Providing innovative solutions for a healthier mind and happier life!
 
@@ -19,7 +19,10 @@ Providing innovative solutions for a healthier mind and happier life!
 - Helps people to lead a healthy and successful life.
 
 ## Our Logo <a name = "logo"></a>
-<img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/ad16c22c-700a-4411-ab9e-0ca59a4c382b" width=140px height=110px alt="logo">
+<div>
+  <a href="https://yuva-manobal.netlify.app/ ">
+    <img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/ad16c22c-700a-4411-ab9e-0ca59a4c382b" width=140px height=110px alt="logo">
+  </a>
 
 ## 📸 Screenshots <a name = "screenshots"></a>
 ![readmeBanner](https://github.com/pritanand7/Yuva-Manobal/assets/93637274/2ff08b29-203d-40e5-b23e-61f8b68ae209)
@@ -27,6 +30,8 @@ Providing innovative solutions for a healthier mind and happier life!
 
 
 ## Tech Stack <a name = "tech_stack"></a>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap5-%23e4626b.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%23e4626b.svg?style=for-the-badge&logo=Flutter&logoColor=%23F7DF1E">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
