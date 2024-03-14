@@ -20,7 +20,7 @@ Providing innovative solutions for a healthier mind and happier life!
 
 ## Our Logo <a name = "logo"></a>
 <div>
-  <a href="https://yuva-manobal.netlify.app/ ">
+  <a href="https://yuva-manobal.netlify.app/" target= "_blank">
     <img src="https://github.com/pritanand7/Yuva-Manobal/assets/93637274/ad16c22c-700a-4411-ab9e-0ca59a4c382b" width=140px height=110px alt="logo">
   </a>
 
