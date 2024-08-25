@@ -245,7 +245,7 @@ body.dark .accordion__content .email{
 header {
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-  url("/images/header.png");
+  url("https://github.com/pritanand7/Yuva-Manobal/blob/adc6726e0a90ec99ff42dd62278e757766742f6c/images/header.png");
   background-position: center;
   background-size: cover;
   position: relative;
