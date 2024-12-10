@@ -1,4 +1,4 @@
-s# Yuva Manobal 
+# Yuva Manobal 
 Welcome to Yuva Manobal, a leading project dedicated to promoting mental health and well-being. Our mission is to provide comprehensive surveillance, assessment, and solutions to help individuals and communities thrive. With our team of experts and innovative approach, we are committed to making a positive impact on mental health worldwide. 
 
 
